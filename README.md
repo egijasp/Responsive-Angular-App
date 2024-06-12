@@ -1,7 +1,7 @@
-# ResponsiveAngularApp
+# Responsive Angular App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
-The web page includes a header with a title and logo, and a content section with two paragraphs. Each paragraph has an associated button that, when clicked, appends a sentence to the paragraph. The page is designed to be responsive and work on modern browsers.
+The web page includes a header with a title and logo and a content section with two paragraphs. Each paragraph has an associated button that, when clicked, appends a sentence to the paragraph. The page is designed to be responsive and work on modern browsers.
 
 ## Visit
 
