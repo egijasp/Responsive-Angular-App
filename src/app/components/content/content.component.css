@@ -1,0 +1,14 @@
+.main {
+  padding: 0 2rem;
+}
+
+@media (min-width: 800px) {
+  .flex {
+    display: flex;
+    gap: 40px;
+  }
+
+  .main__content {
+    flex: 1;
+  }
+}

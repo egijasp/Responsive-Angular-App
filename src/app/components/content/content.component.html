@@ -1,0 +1,11 @@
+<main class="main">
+  <div class="container flex">
+    @for (item of paragraphs(); track item) {
+    <app-paragraph
+      class="main__content"
+      [paragraph]="item"
+      (buttonClick)="buttonClick($index)"
+    ></app-paragraph>
+    }
+  </div>
+</main>
