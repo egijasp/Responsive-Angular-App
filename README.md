@@ -11,7 +11,15 @@ You can try it out:
 
 ### Clone the repository
 
+Using SSH:
+
 `git clone git@github.com:egijasp/Responsive-Angular-App.git`
+
+Using HTTPS:
+
+`https://github.com/egijasp/Responsive-Angular-App.git`
+
+Navigate to the project directory:
 
 `cd Responsive-Angular-App`
 
